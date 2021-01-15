@@ -4,5 +4,8 @@
 - 更新了mysql
 - 更新了redis
 - 更新了RabbitMQ
+- 更新了gorm
+- 更新了http
+- 更新了并发编程
 - web待续...
 
